@@ -2,7 +2,7 @@
 
 Wenhui Tan, Boyuan Li, Chuhao Jin, Wenbing Huang, Xiting Wang, Ruihua Song @ RUC-GSAI
 
-[Paper Link](https://openreview.net/pdf?id=UxzKcIZedp), [Project Link](Think-Then-React.github.io)
+[Paper Link](https://openreview.net/pdf?id=UxzKcIZedp), [Project Link](https://Think-Then-React.github.io)
 
 # Introduction
 ![teaser image](./assets/teaser.png)
